@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Good Thing",
+  "base_artist": "i-dle",
+  "createdAt": "2025-12-26T11:04:47.129451Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rain Is A Good Thing",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/01_Rain_Is_A_Good_Thing_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Never Miss a Real Good Thing (Till He Says Goodbye) [2001 Remaster]",
+      "artist": "Crystal Gayle",
+      "has_synced": true,
+      "path": "select/02_You_Never_Miss_a_Real_Good_Thing_(Till_He_Says_Goodbye)_[2001_Remaster]_Crystal_Gayle.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Never Miss A Real Good Thing (Till He Says Goodbye) (Remastered)",
+      "artist": "Crystal Gayle",
+      "has_synced": true,
+      "path": "select/03_You_Never_Miss_A_Real_Good_Thing_(Till_He_Says_Goodbye)_(Remastered)_Crystal_Gayle.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You'll Lose A Good Thing",
+      "artist": "Freddy Fender",
+      "has_synced": false,
+      "path": "select/04_You'll_Lose_A_Good_Thing_Freddy_Fender.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You'll Lose a Good Thing (Album Version)",
+      "artist": "Freddy Fender",
+      "has_synced": false,
+      "path": "select/05_You'll_Lose_a_Good_Thing_(Album_Version)_Freddy_Fender.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We've Got A Good Thing Going",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/06_We've_Got_A_Good_Thing_Going_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It Was A Good Thing",
+      "artist": "Röyksopp feat. Pixx",
+      "has_synced": true,
+      "path": "select/07_It_Was_A_Good_Thing_Röyksopp_feat._Pixx.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It Was A Good Thing",
+      "artist": "Röyksopp",
+      "has_synced": true,
+      "path": "select/08_It_Was_A_Good_Thing_Röyksopp.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Thing",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/09_Good_Thing_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Mess Up A Good Thing",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/10_Don't_Mess_Up_A_Good_Thing_Ry_Cooder.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Done Lost Your Good Thing Now",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/11_You_Done_Lost_Your_Good_Thing_Now_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Done Lost Your Good Thing Now",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/12_You_Done_Lost_Your_Good_Thing_Now_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Good Thing",
+      "artist": "Gino Vannelli",
+      "has_synced": false,
+      "path": "select/13_A_Good_Thing_Gino_Vannelli.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Good Thing",
+      "artist": "Fine Young Cannibals",
+      "has_synced": true,
+      "path": "select/14_Good_Thing_Fine_Young_Cannibals.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Good Thing",
+      "artist": "Saint Etienne",
+      "has_synced": true,
+      "path": "select/15_A_Good_Thing_Saint_Etienne.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Good Thing",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/16_A_Good_Thing_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Making A Good Thing Better",
+      "artist": "Olivia Newton-John",
+      "has_synced": true,
+      "path": "select/17_Making_A_Good_Thing_Better_Olivia_Newton-John.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good Thing",
+      "artist": "i-dle",
+      "has_synced": false,
+      "path": "select/pl_01_Good_Thing_i-dle.txt"
+    }
+  ]
+}
