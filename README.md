@@ -1,0 +1,74 @@
+# i-dle – Good Thing
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Goodbye baby, muah
+Baby I heard your good thing
+음음음
+It’s really really really good
+랄랄라 랄랄랄라
+Baby I heard your good thing
+음음음
+It’s really really really good
+난 1억 5000짜리 시계를 차고
+그 다음에 르쉐 or 람보
+키를 손에 들고
+미친 듯 Burn 하고
+퍽 밟아 200킬로
+이거 참 하하 정말 깔깔 웃겨
+재미있군
+Hey boy, you never know
+What you’re missing now
+So, holding her in front of me,
+yo
+Boy, it is such a good thing
+for tonight
+Goodbye baby, muah
+Baby I heard your good thing
+음음음
+It’s really really really good
+랄랄라 랄랄랄라
+Baby I heard your good thing
+음음음
+It’s really really really good
+랄랄랄라
+Good thing, goody
+Holy moly shhh
+Good thing, goody
+어머 It’s a good thing
+Good thing, goody
+Holy moly shhh
+Good thing, goody
+어머 It’s a good thing
+Yo, dear ‘dumb and dumber’
+꺼져 널 거저 줘도 No no no no
+눈앞에 나를 보니
+말을 계속 어버버버
+Yo, hello girl next to boy
+거참 뭣뭣뭣뭣 같으니
+너나 전부 가져 발로 뻥뻥뻥뻥!
+Hey boy, you never know
+What you’re missing now
+So, holding until I die, yo
+Boy, it is such a good thing
+for tonight
+Goodbye baby, muah
+Baby I heard your good thing
+음음음
+It’s really really really good
+랄랄라 랄랄랄라
+Baby I heard your good thing
+음음음
+It’s really really really good
+랄랄랄라
+Good thing, goody
+Holy moly shhh
+Good thing, goody
+어머 It’s a good thing
+Good thing, goody
+Holy moly shhh
+Good thing, goody
+어머 It’s a good thing
+어머 It’s a good thing
+```
